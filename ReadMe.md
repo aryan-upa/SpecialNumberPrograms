@@ -1,11 +1,11 @@
-# Number Program
+# Special Number Program
 
 ## Aim
 This repository mainly focuses on building a resource which contains implementations of types of special numbers which 
 are usually asked in the interviews.
 
 ## Already implemented in Languages:
-- Java
+- Java [ undergoing ]
 - more to follow.
 
 ## List of Types Numbers :
