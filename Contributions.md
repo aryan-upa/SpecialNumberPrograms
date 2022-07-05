@@ -1,9 +1,9 @@
 # Contributor's Guide
 
 Feedback, bug reports, and pull requests are welcome. <br>
-Feel free to ask for [help](http://link_to_github_issues). 
+Feel free to ask for [help](https://github.com/aryan-upa/SpecialNumberPrograms/issues). 
 
-Working on your first Pull Request? Refer [First Contribution Guide](http://link_to_first_Contribution_Guide).
+Working on your first Pull Request? Refer [First Contribution Guide](https://github.com/firstcontributions/first-contributions/blob/master/README.md).
 
 1. Fork this repository.
 2. Clone your new repository to your system.
