@@ -1,4 +1,4 @@
-# Special Number Program
+# Special Number Programs
 
 ## Aim
 This repository mainly focuses on building a resource which contains implementations of types of special numbers which 
@@ -23,6 +23,8 @@ are usually asked in the interviews.
 12. [Neon Number](https://www.geeksforgeeks.org/neon-number/)
 13. [Perfect Number](https://en.wikipedia.org/wiki/Perfect_number)
 14. [Unique Number](https://www.javatpoint.com/unique-number-in-java-program)
+
+## Click [here](https://github.com/aryan-upa/SpecialNumberPrograms/blob/master/Contributions.md) to contribute ❣️.
 
 ## Contributors : 
 | ![avatar](https://avatars.githubusercontent.com/u/73682643?v=4) <br> Aryan Upadhyay |
