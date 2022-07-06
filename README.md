@@ -27,6 +27,14 @@ are usually asked in the interviews.
 - [Neon Number](https://www.geeksforgeeks.org/neon-number/)
 - [Perfect Number](https://en.wikipedia.org/wiki/Perfect_number)
 - [Unique Number](https://www.javatpoint.com/unique-number-in-java-program)
+- [Bouncy Number](https://www.educative.io/answers/what-are-bouncy-numbers)
+- [Sunny Number](https://www.geeksforgeeks.org/sunny-number/)
+- [Smith Number](http://web.cs.ucla.edu/~klinger/nmath/smith.html)
+- [Tech number](https://www.javatpoint.com/tech-number-in-java)
+- [Keith number](https://www.geeksforgeeks.org/keith-number/)
+- [Spy Number](https://www.javatpoint.com/spy-number-in-java)
+- [Disarium Number](https://iq.opengenus.org/disarium-number/)
+- [Peterson Number](https://www.javatpoint.com/peterson-number-in-java)
 
 ## Click [here](https://github.com/aryan-upa/SpecialNumberPrograms/blob/master/CONTRIBUTING.md) to contribute ❣️.
 
