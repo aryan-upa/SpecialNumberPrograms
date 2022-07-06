@@ -1,3 +1,5 @@
+package java;
+
 public class HarshadNumber {
 
     public static boolean isHarshadNumber(long num) {

@@ -1,3 +1,5 @@
+package java;
+
 public class PrimeNumber {
 
     public static boolean isPrime(long num) {

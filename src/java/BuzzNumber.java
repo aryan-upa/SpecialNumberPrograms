@@ -1,3 +1,5 @@
+package java;
+
 public class BuzzNumber {
 
     public static boolean isBuzzNumber(long num) {

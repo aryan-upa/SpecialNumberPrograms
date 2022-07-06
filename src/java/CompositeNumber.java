@@ -1,3 +1,5 @@
+package java;
+
 public class CompositeNumber {
 
     public static boolean isCompositeNumber(long num) {

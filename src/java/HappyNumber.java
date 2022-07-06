@@ -1,3 +1,5 @@
+package java;
+
 import java.util.HashSet;
 
 public class HappyNumber {

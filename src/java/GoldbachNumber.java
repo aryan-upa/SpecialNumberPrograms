@@ -1,3 +1,5 @@
+package java;
+
 public class GoldbachNumber {
 
     private static boolean isPrime(long num) {

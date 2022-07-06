@@ -1,3 +1,5 @@
+package java;
+
 public class UglyNumber {
 
     public static boolean isUglyNumber(long num) {
