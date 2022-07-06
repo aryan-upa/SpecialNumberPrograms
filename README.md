@@ -11,30 +11,30 @@ are usually asked in the interviews.
 - [Java](https://github.com/aryan-upa/SpecialNumberPrograms/tree/master/src/java)
 - more to follow.
 
-## List of Types Numbers:
+## Types of Special Numbers:
 
-- [Prime Number](https://en.wikipedia.org/wiki/Prime_number)
-- [Happy Number](https://en.wikipedia.org/wiki/Happy_number)
-- [Goldbach Number](https://mathworld.wolfram.com/GoldbachNumber.html)
-- [Buzz Number](https://www.javatpoint.com/buzz-number-java)
-- [Automorphic Number](https://www.britannica.com/topic/automorphic-number)
-- [Strobogrammatic Number](https://en.wikipedia.org/wiki/Strobogrammatic_number)
 - [Armstrong Number](https://www.scaler.com/topics/armstrong-number-in-c/)
-- [Harshad Number](https://en.wikipedia.org/wiki/Harshad_number)
+- [Automorphic Number](https://www.britannica.com/topic/automorphic-number)
+- [Bouncy Number](https://www.educative.io/answers/what-are-bouncy-numbers)
+- [Buzz Number](https://www.javatpoint.com/buzz-number-java)
 - [Composite Number](https://www.cuemath.com/numbers/composite-numbers/)
-- [Ugly Number](https://www.tutorialspoint.com/Ugly-Numbers)
+- [Disarium Number](https://iq.opengenus.org/disarium-number/)
+- [Goldbach Number](https://mathworld.wolfram.com/GoldbachNumber.html)
+- [Happy Number](https://en.wikipedia.org/wiki/Happy_number)
+- [Harshad Number](https://en.wikipedia.org/wiki/Harshad_number)
+- [Keith number](https://www.geeksforgeeks.org/keith-number/)
 - [Krishnamurthy Number](https://www.geeksforgeeks.org/check-if-a-number-is-a-krishnamurthy-number-or-not--)
 - [Neon Number](https://www.geeksforgeeks.org/neon-number/)
 - [Perfect Number](https://en.wikipedia.org/wiki/Perfect_number)
-- [Unique Number](https://www.javatpoint.com/unique-number-in-java-program)
-- [Bouncy Number](https://www.educative.io/answers/what-are-bouncy-numbers)
-- [Sunny Number](https://www.geeksforgeeks.org/sunny-number/)
-- [Smith Number](http://web.cs.ucla.edu/~klinger/nmath/smith.html)
-- [Tech number](https://www.javatpoint.com/tech-number-in-java)
-- [Keith number](https://www.geeksforgeeks.org/keith-number/)
-- [Spy Number](https://www.javatpoint.com/spy-number-in-java)
-- [Disarium Number](https://iq.opengenus.org/disarium-number/)
 - [Peterson Number](https://www.javatpoint.com/peterson-number-in-java)
+- [Prime Number](https://en.wikipedia.org/wiki/Prime_number)
+- [Smith Number](http://web.cs.ucla.edu/~klinger/nmath/smith.html)
+- [Spy Number](https://www.javatpoint.com/spy-number-in-java)
+- [Strobogrammatic Number](https://en.wikipedia.org/wiki/Strobogrammatic_number)
+- [Sunny Number](https://www.geeksforgeeks.org/sunny-number/)
+- [Tech number](https://www.javatpoint.com/tech-number-in-java)
+- [Ugly Number](https://www.tutorialspoint.com/Ugly-Numbers)
+- [Unique Number](https://www.javatpoint.com/unique-number-in-java-program)
 
 ## Click [here](https://github.com/aryan-upa/SpecialNumberPrograms/blob/master/CONTRIBUTING.md) to contribute ❣️.
 
