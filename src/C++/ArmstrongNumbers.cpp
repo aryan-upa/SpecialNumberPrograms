@@ -1,15 +1,5 @@
 #include <iostream>
 using namespace std;
-bool isArmstrong(long n);
-
-int main(){
-    bool flag = isArmstrong(155);
-    if(flag == true)
-        cout<<"Number is an Armstrong Number.";
-    else
-        cout<<"Number is not an Armstrong Number.";
-        
-}
 
 bool isArmstrong(long n) {
     bool isArms;
