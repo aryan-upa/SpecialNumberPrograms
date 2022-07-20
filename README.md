@@ -7,6 +7,7 @@ are usually asked in the interviews.
 
 ## Already implemented in Languages:
 
+- [C++](https://github.com/aryan-upa/SpecialNumberPrograms/tree/master/src/C%2B%2B)
 - [Dart](https://github.com/aryan-upa/SpecialNumberPrograms/tree/master/src/dart)
 - [Java](https://github.com/aryan-upa/SpecialNumberPrograms/tree/master/src/java)
 - more to follow.
