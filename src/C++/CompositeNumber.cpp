@@ -13,7 +13,7 @@ bool isComposite(long n){
         }
     }
     if(count>2){
-        return true;e
+        return true;
     }
     else{
         return false;
