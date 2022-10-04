@@ -1,7 +1,6 @@
 #include <iostream>
 
 using namespace std;
-bool isHarshadNumber(long n);
 
 bool isHarshadNumber(long n)
 {
