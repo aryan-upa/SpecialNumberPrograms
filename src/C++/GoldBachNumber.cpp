@@ -29,6 +29,7 @@ bool isGoldBachNumber(long n)
                 sprime = n - i;
                 if (isPrime(sprime))
                 {
+                    // this line will print odd numbers pair
                     cout << fprime << " + " << sprime << endl;
                     return true;
                 }
