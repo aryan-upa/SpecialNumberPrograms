@@ -12,12 +12,3 @@ bool isPrime(int n)
 
 	return true;
 }
-
-int main()
-{
-	int n;
-	cout<<"Enter a number";
-	cin>>n;
-	isPrime(n) ? cout << " true\n" : cout << " false\n";
-	return 0;
-}
