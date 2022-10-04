@@ -1,5 +1,7 @@
 # Special Number Programs
 
+![SpecialNumberPrograms](https://github.com/aryan-upa/SpecialNumberPrograms/blob/master/special%20number%20programs%20(1548%20%C3%97%20730px).png)
+
 ## Aim
 
 This repository mainly focuses on building a resource which contains implementations of types of special numbers which
