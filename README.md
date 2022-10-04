@@ -10,6 +10,7 @@ are usually asked in the interviews.
 - [C++](https://github.com/aryan-upa/SpecialNumberPrograms/tree/master/src/C%2B%2B)
 - [Dart](https://github.com/aryan-upa/SpecialNumberPrograms/tree/master/src/dart)
 - [Java](https://github.com/aryan-upa/SpecialNumberPrograms/tree/master/src/java)
+- [Javascript](https://github.com/aryan-upa/SpecialNumberPrograms/tree/master/src/javascript)
 - more to follow.
 
 ## Types of Special Numbers:
