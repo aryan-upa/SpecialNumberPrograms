@@ -1,5 +1,7 @@
 # Special Number Programs
 
+![SpecialNumberPrograms](https://github.com/aryan-upa/SpecialNumberPrograms/blob/master/special%20number%20programs%20(1548%20%C3%97%20730px).png)
+
 ## Aim
 
 This repository mainly focuses on building a resource which contains implementations of types of special numbers which
@@ -10,6 +12,7 @@ are usually asked in the interviews.
 - [C++](https://github.com/aryan-upa/SpecialNumberPrograms/tree/master/src/C%2B%2B)
 - [Dart](https://github.com/aryan-upa/SpecialNumberPrograms/tree/master/src/dart)
 - [Java](https://github.com/aryan-upa/SpecialNumberPrograms/tree/master/src/java)
+- [Javascript](https://github.com/aryan-upa/SpecialNumberPrograms/tree/master/src/javascript)
 - more to follow.
 
 ## Types of Special Numbers:
