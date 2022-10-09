@@ -2,14 +2,6 @@
 
 using namespace std;
 bool isHappyNumber(long n);
-int main() {
-    int c = isHappyNumber(7);
-    if (c)
-        cout << "true";
-    else
-        cout << "false";
-}
-
 bool isHappyNumber(long n) {
     long sum = 0, rem;
     while (sum != 1 && sum != 4) {
