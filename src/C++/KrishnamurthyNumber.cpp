@@ -3,13 +3,6 @@
 using namespace std;
 bool isKrishanMurthyNumber(long n);
 int fact(long n);
-int main() {
-    if (isKrishanMurthyNumber(145) == true) {
-        cout << "True" << endl;
-    } else {
-        cout << "False";
-    }
-}
 
 int fact(long n) {
     int fact = 1;
