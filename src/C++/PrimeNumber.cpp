@@ -4,9 +4,9 @@ using namespace std;
 bool isPrime(int n)
 {
 
-	for (int i = 2; i * i <= n; i++)
+	for (int divisor = 2; divisor * divisor <= n; divisor++)
 	{
-		if (n % i == 0)
+		if (n % divisor == 0)
 		{
 			return false;
 		}
