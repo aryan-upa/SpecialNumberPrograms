@@ -1,8 +1,5 @@
 #include <iostream>
-
 using namespace std;
-bool isPrime(long n);
-bool isGoldBachNumber(long n);
 
 bool isPrime(long n)
 {

@@ -1,7 +1,6 @@
 #include <iostream>
-
 using namespace std;
-bool isUglyNumber(long n);
+
 
 bool isUglyNumber(long n) {
     int div[3] = {2, 3, 5};
