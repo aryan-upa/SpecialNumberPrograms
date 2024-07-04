@@ -1,8 +1,6 @@
 #include <iostream>
-
 using namespace std;
-bool isKrishanMurthyNumber(long n);
-int fact(long n);
+
 
 int fact(long n) {
     int fact = 1;

@@ -1,7 +1,6 @@
 #include <iostream>
-
 using namespace std;
-bool isNeonNumber(long n);
+
 
 bool isNeonNumber(long n) {
     long sqr = n * n;

@@ -1,7 +1,6 @@
 #include <iostream>
-
 using namespace std;
-bool isHappyNumber(long n);
+
 bool isHappyNumber(long n) {
     long sum = 0, rem;
     while (sum != 1 && sum != 4) {

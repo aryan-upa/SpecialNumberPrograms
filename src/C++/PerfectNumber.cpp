@@ -1,7 +1,6 @@
 #include <iostream>
-
 using namespace std;
-bool isPerfectNumber(long n);
+
 
 bool isPerfectNumber(long n) {
     int sum = 0;

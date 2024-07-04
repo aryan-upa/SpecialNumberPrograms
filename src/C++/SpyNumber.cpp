@@ -1,8 +1,7 @@
 #include <iostream>
-
 using namespace std;
 
-bool isSpyNumber(long n);
+
 
 bool isSpyNumber(long n) {
     long digit, sum = 0, product = 1;

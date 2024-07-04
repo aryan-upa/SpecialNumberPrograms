@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-bool isComposite(long n);
 
 bool isComposite(long n){
     if(n<1){

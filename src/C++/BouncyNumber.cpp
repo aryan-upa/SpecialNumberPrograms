@@ -1,8 +1,6 @@
 #include <iostream>
-
 using namespace std;
 
-bool isBouncyNumber(long n);
 bool isBouncyNumber(long n) {
     bool isdecreasing = false, isincreasing = false;
     int digits[20] = {0};

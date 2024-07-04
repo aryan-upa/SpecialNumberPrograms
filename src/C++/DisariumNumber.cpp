@@ -1,8 +1,6 @@
 #include<iostream>
 #include<cmath>
 using namespace std;
-int countDigits(int n);
-bool isDisariumNumber(long n);
 
 
 int countDigits(int n){
